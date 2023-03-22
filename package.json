@@ -1,0 +1,22 @@
+{
+  "name": "learning_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoa-kidnav/node-js-basic-learning-hoi-dan-it.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoa-kidnav/node-js-basic-learning-hoi-dan-it/issues"
+  },
+  "homepage": "https://github.com/hoa-kidnav/node-js-basic-learning-hoi-dan-it#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}

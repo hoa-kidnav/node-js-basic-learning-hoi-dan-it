@@ -1,1 +1,3 @@
+bai 2 
 client/server
+bài 3 : hiểu về node node  ko phải package là   environment
